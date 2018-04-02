@@ -1,0 +1,9 @@
+@import "partials/utils";
+
+:root {
+  --google-blue-800: #2A56C6;
+  --google-teal-800: #00796B;
+
+  --mdc-theme-accent: var(--google-teal-800);
+  --mdc-theme-secondary: var(--google-teal-800);
+}
